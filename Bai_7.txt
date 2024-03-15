@@ -1,0 +1,5 @@
+nhập lần lượt hệ số của phương trình 1:24 7 5
+nhập lần lượt hệ số của phương trình 2:31 7 5
+kết quả của hệ phương trình là:
+x= -0.0
+y= 0.71

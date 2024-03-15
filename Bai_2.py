@@ -1,0 +1,6 @@
+so_luong_sach=input("nhập số lượng sách:")
+ma_sach=input("nhập mã sách:")
+ten_sach=input("nhập tên sách:")
+tac_gia=input("nhập tên tác giả:")
+nam_xuat_ban=input("nhập năm xuất bản:")
+print(f"Thư viện ĐHKTKTCN có {so_luong_sach} sách {ten_sach} với mã số {ma_sach}.\nCuốn sách của tác giác {tac_gia} được xuất bản vào năm {nam_xuat_ban}")

@@ -1,0 +1,2 @@
+nhập vào hai số thực:24 7
+giá trị của biểu thức f(x,z) là: 1.56

@@ -1,0 +1,2 @@
+nhập vào số giờ cần tính:24
+tổng số tiền điện phải trả cho việc sử dụng máy lọc không khí với giá điện 5000 đồng/kWh là: 39600.0

@@ -1,0 +1,4 @@
+nhập các số đo:24 7
+diện tích xung quanh hình chóp tứ giác đều là: 336.0
+diện tích toàn phần hình chóp tứ giác đều là: 912.0
+thể tích hình chóp tứ giác đều là: 1344.0

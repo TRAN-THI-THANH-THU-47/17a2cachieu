@@ -1,0 +1,8 @@
+nhập vào tọa độ đỉnh M(x,y): 24 7
+nhập vào tọa độ đỉnh N(x,y): 31 5
+nhập vào tọa độ đỉnh P(x,y): 31 24
+nhập vào tọa độ đỉnh Q(x,y): 24 31
+trung điểm cạnh MN là:  (27.5, 6.0)
+trung điểm cạnh NP là:  (31.0, 14.5)
+trung điểm cạnh PQ là:  (27.5, 27.5)
+trung điểm cạnh QM là:  (24.0, 19.0)

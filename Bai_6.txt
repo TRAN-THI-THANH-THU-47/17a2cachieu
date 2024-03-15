@@ -1,0 +1,7 @@
+nhập x1, x2 của vecto a:24 7
+nhập y1, y2 của vecto b:7 24
+phép cộng vecto a+b là: (31.0, 31.0)
+phép trừ vecto a-b là: (17.0, -17.0)
+độ dài vecto a là: 25.0
+độ dài vecto_b là: 25.0
+cosin góc hợp giữa hai vecto a và b là: 0.54

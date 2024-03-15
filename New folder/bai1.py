@@ -1,0 +1,5 @@
+a = float (input("nhap ma so sinh vien "))
+b = float (input("nhap ho va ten"))
+c = float (input("nhap que quan"))
+d = float (input("nhap nam sinh"))
+e = float (input("nhap diem trung binh mon tin co so"))

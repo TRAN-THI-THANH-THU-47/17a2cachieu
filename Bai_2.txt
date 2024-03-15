@@ -1,0 +1,7 @@
+nhập số lượng sách:24
+nhập mã sách:07
+nhập tên sách:Rigby
+nhập tên tác giả:C
+nhập năm xuất bản:2005
+Thư viện ĐHKTKTCN có 24 sách Rigby với mã số 07.
+Cuốn sách của tác giác C được xuất bản vào năm 2005
