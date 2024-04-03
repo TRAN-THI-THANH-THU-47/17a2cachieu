@@ -1,0 +1,32 @@
+- Bài 1: thiếu trường hợp phương trình có vô số nghiệm
+Điểm bài tập: 0.75
+
+- Bài 2: trong trường hợp số có 5 chữ số thì chữ số hàng nghìn in ra là bao nhiêu?
+trong trường hợp số có 3 chữ số thì không có chữ số hàng nghìn, nhưng lại in kết quả là 0
+Điểm bài tập: 0.5
+
+- Bài 3: sử dụng kiến thức vượt kiến thức lab 1, 2. Đoạn code vẫn chưa hoàn thành
+Điểm bài tập: 0
+
+- Bài 4: đúng
+Điểm bài tập: 1.0 
+
+- Bài 5: đúng
+Điểm bài tập: 1.0 
+
+- Bài 6: đúng
+Điểm bài tập: 1.0 
+
+- Bài 7: đúng
+Điểm bài tập: 1.0 
+
+- Bài 8: em cần tách biệt trường hợp cắt nhau và song song
+Điểm bài tập: 0.5
+
+- Bài 9: đúng
+Điểm bài tập: 1.0 
+
+- Bài 10: đúng
+Điểm bài tập: 1.0
+
+Tổng điểm bài tập lab 2: 7.75
