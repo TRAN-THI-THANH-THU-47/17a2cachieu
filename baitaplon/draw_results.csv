@@ -1,0 +1,6 @@
+Drawn Color,Probability,Remaining Balls
+Green,0.0,"{'Red': 1, 'Blue': 1, 'Green': 0, 'Yellow': 1, 'Orange': 1, 'Purple': 1, 'Black': 1, 'White': 1, 'Pink': 1, 'Brown': 1}"
+Black,0.0,"{'Red': 1, 'Blue': 1, 'Green': 0, 'Yellow': 1, 'Orange': 1, 'Purple': 1, 'Black': 0, 'White': 1, 'Pink': 1, 'Brown': 1}"
+Yellow,0.0,"{'Red': 1, 'Blue': 1, 'Green': 0, 'Yellow': 0, 'Orange': 1, 'Purple': 1, 'Black': 0, 'White': 1, 'Pink': 1, 'Brown': 1}"
+Purple,0.0,"{'Red': 1, 'Blue': 1, 'Green': 0, 'Yellow': 0, 'Orange': 1, 'Purple': 0, 'Black': 0, 'White': 1, 'Pink': 1, 'Brown': 1}"
+Pink,0.0,"{'Red': 1, 'Blue': 1, 'Green': 0, 'Yellow': 0, 'Orange': 1, 'Purple': 0, 'Black': 0, 'White': 1, 'Pink': 0, 'Brown': 1}"
